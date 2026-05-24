@@ -56,3 +56,5 @@ for day in range(365):
     if personage.alive == False:
         break
     personage.live(day)
+
+
